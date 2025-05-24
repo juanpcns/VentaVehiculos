@@ -19,7 +19,6 @@ namespace VentaVehículos
             : base("name=DBVentaVehiculosEntities")
         {
         }
-  //Si me suben los cambios
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
